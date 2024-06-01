@@ -12,4 +12,4 @@ client.on(Events.client, async() => {
 });
 
 // conectar clientes
-client.login("MTI0NjI5NTM5ODYxNjc5NzI1NA.GIsPX9.d6BoOk9Ged3H8hln6RgE6WG2PSC8q650OW9Xf8")
+client.login("")
